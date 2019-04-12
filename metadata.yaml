@@ -1,5 +1,8 @@
 _repo: The-Desert-Healer_59199
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59199-h/images/cover.jpg
 creator:
   author:
     agent_name: Hull, E. M. (Edith Maude)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2313
     wikipedia: http://en.wikipedia.org/wiki/Edith_Maude_Hull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59199#The-Desert-Healer
 gutenberg_issued: '2019-04-03'
 gutenberg_type: Text
 identifiers:
